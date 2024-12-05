@@ -20,6 +20,11 @@ Here are a few of my recent and active projects:
 - **[Project 2 Name](GitHub_Link)**: A short description of what the project does.
 - **[Project 3 Name](GitHub_Link)**: A short description of what the project does.
 
+## 💸 Support Me
+If you like my work and want to support my open-source contributions, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/yourusername)
+
 ## 📫 Get in Touch
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
