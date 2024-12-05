@@ -22,7 +22,7 @@ If you like my work and want to support my open-source contributions, consider b
 
 ## 📫 Get in Touch
 - 📧 Email: [slymawuli3@gmail.com](mailto:slymawuli3@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://https://www.linkedin.com/in/frank-mawuli-8ab7b2287/)
+- 💼 LinkedIn: [My Linkdin](https://https://www.linkedin.com/in/frank-mawuli-8ab7b2287/)
 - 🌐 Personal Website: [your-website.com]()
 
 Thanks for visiting my profile! I love connecting with fellow developers, so don’t hesitate to reach out!
