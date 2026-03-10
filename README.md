@@ -1,11 +1,10 @@
 <div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="padding:20px 0;" />
 
 <!-- Animated coding GIF on the right, greeting on the left -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0EA5E9&left=true&vCenter=true&width=500&lines=Hey!+👋+Nice+to+meet+you.;I+build+things+for+the+web.;Full-Stack+Engineer." align="left" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0EA5E9&left=true&vCenter=true&width=500&lines=Hey!+👋+Nice+to+meet+you.;I+build+things+for+the+web.;Software+Engineer." align="left"  style=""/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" />
 
-<br/><br/><br/><br/>
 
 </div>
 
